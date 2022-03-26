@@ -110,13 +110,17 @@ s3_resource.Object(bucket, f'Dataset/{currency}.csv').put(Body=csv_buffer.getval
 <img width="817" alt="Ekran Resmi 2022-03-26 16 11 54" src="https://user-images.githubusercontent.com/91700155/160254207-516bddf3-50ab-4ff4-aafb-7682eaadea57.png">
 <img width="811" alt="Ekran Resmi 2022-03-26 16 12 28" src="https://user-images.githubusercontent.com/91700155/160254222-a2e91b92-5aaa-4cd5-928e-8931b3ed69f1.png">
 <img width="794" alt="Ekran Resmi 2022-03-26 16 13 10" src="https://user-images.githubusercontent.com/91700155/160254237-1bdd8583-0f73-439e-ba1a-2e2f8c3a6540.png">
+
+
+## Summary of the chapter:
+
+- Read CSV data via API method
+- Write updated data back to Amazon S3 in csv format
+
 <img width="886" alt="Ekran Resmi 2022-03-26 16 13 34" src="https://user-images.githubusercontent.com/91700155/160254253-b2638c63-babe-49bd-b58c-9291518424e0.png">
 
 
  
-- Summary of the chapter:
-    - Read CSV data via API method
-    - Write updated data back to Amazon S3 in Parquet format
 
     
 
