@@ -1,4 +1,4 @@
-# Apache Spark Examples with Amazon EMR and S3 Services using API Method
+# Amazon EMR and S3 Services using Python via API Method
 
 
 <p> In this article we will see how to send Spark-based ETL studies to an Amazon EMR cluster.
