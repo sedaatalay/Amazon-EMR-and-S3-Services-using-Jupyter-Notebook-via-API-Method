@@ -1,4 +1,4 @@
-# SPARK-BASED ETL-2 on EMR (VIA API)
+# Apache Spark Examples with Amazon EMR and S3 Services using API Method
 
 
 <p> In this article we will see how to send Spark-based ETL studies to an Amazon EMR cluster.
