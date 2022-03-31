@@ -1,4 +1,4 @@
-# Amazon EMR and S3 Services using Python via API Method
+# Amazon EMR and S3 Services using Jupyter Notebook via API Method
 
 
 <p> In this article we will see how to send Spark-based ETL studies to an Amazon EMR cluster.
